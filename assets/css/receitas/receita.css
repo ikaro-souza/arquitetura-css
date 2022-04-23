@@ -1,0 +1,13 @@
+.receita {
+  background: #fdfdfd;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 2.5rem;
+  max-width: 302px;
+}
+
+@media screen and (min-width: 600px) {
+  .receita {
+    margin-bottom: 0;
+  }
+}

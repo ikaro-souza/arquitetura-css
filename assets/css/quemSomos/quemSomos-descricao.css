@@ -1,0 +1,5 @@
+.quem-somos__descricao {
+  color: var(--secao-descricao--cor);
+  font-size: var(--secao-descricao--tamanho);
+  font-weight: var(--secao-descricao--peso);
+}

@@ -1,0 +1,6 @@
+.pessoa__nome {
+  color: var(--primaria);
+  font-family: var(--secao-titulo--fonte);
+  font-size: 2rem;
+  margin: 1rem 0;
+}

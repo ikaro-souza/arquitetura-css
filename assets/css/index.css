@@ -1,0 +1,9 @@
+:root {
+  --primaria: #8d0606;
+  --secao-titulo--alinhamento: center;
+  --secao-titulo--fonte: Pacifico, cursive;
+  --secao-titulo--tamanho: 3.1875rem;
+  --secao-descricao--cor: #595959;
+  --secao-descricao--peso: 100;
+  --secao-descricao--tamanho: 1.75rem;
+}

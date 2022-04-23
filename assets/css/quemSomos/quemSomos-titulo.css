@@ -1,0 +1,6 @@
+.quem-somos__titulo {
+  color: var(--primaria);
+  font-family: var(--secao-titulo--fonte);
+  font-size: var(--secao-titulo--tamanho);
+  text-align: var(--secao-titulo--alinhamento);
+}
